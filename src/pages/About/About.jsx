@@ -5,8 +5,8 @@ const About = () => {
     <div className="flex items-center justify-around flex-col max-w-[100vw] h-[64.5vh] font-Lumanosimo dark:bg-slate-900 dark:text-white">
       <div className="w-[80vw] h-[40vh] flex flex-col items-center justify-between">
         <h1 className="text-sm leading-relaxed sm:leading-loose sm:text-base md:text-lg md:leading-loose lg:text-xl lg:leading-loose xl:text-2xl xl:leading-loose 2xl:text-3xl 2xl:leading-loose">
-          Hello, I`m <span className="text-five">Ahmad Pirhayati</span> , a front-end
-          programmer. I have created this e-commerce website as a sample work.
+          Hello, I`m <span className="text-five">Shayan Mokhles Abadi</span> , a front-end
+          Developer. I have created this e-commerce website as a sample work.
           Feel free to contact me via LinkedIn and GitHub for further
           communication.
         </h1>
