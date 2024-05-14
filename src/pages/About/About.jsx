@@ -12,16 +12,14 @@ const About = () => {
         </h1>
         <div className="flex flex-col justify-between items-start text-xl h-36 p-8 md:text-2xl lg:h-36 xl:text-3xl xl:h-40 2xl:text-4xl 2xl:h-44">
           <Link
-            to={"https://www.linkedin.com/in/ahmad-pirhayati-7335aa2a1/"}
-            className="flex justify-center items-center hover:text-five transition duration-500 ease-in-out"
-          >
-            <span className="fa-brands fa-linkedin mr-4"></span>Ahmad Pirhayati
+            to={"https://www.linkedin.com/in/shaian-mokhles-abadi-b04a12212/"}
+            className="flex justify-center items-center hover:text-five transition duration-500 ease-in-out">
+            <span className="fa-brands fa-linkedin mr-4"></span>Shayan Mokhles Abadi
           </Link>
           <Link
-            to={"https://github.com/"}
-            className="flex justify-center items-center hover:text-five transition duration-500 ease-in-out"
-          >
-            <span className="fa-brands fa-github mr-4"></span>ahmadpht
+            to={"https://github.com/shaian-hagh"}
+            className="flex justify-center items-center hover:text-five transition duration-500 ease-in-out">
+            <span className="fa-brands fa-github mr-4"></span>Shaian Hagh
           </Link>
         </div>
       </div>
